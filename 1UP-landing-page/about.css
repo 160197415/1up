@@ -1,6 +1,6 @@
 /* Generic Styling */
 body {
-  background-color: black;
+  background-color: white;
 }
 h2{
   text-align: center;
@@ -22,11 +22,12 @@ img:hover{
 
 .navbar{
   background-color: #bfbfbf;
+  
 
 }
 .nav-item{
   padding-right: 20px;
-  border-right: 1px solid red;
+
 
 /* Jumbotron */
 
